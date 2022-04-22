@@ -1,0 +1,21 @@
+{
+  "name": "music-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "file-metadata": "^3.0.0",
+    "geo-coordinates-parser": "^1.4.4",
+    "mdls": "^1.2.0",
+    "node-geocoder": "^4.0.0",
+    "parse-dms": "^0.0.5",
+    "transloadit": "3"
+  }
+}
